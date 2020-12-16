@@ -10,6 +10,8 @@ namespace ChessEngineTest
             Console.WriteLine("Hello World!");
              bitboard = new Bitboard();
             bitboard.initStandardChess();
+            //Console.WriteLine("BP"+bitboard.BlackPieces);
+
             
         }
     }
