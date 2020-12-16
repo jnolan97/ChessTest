@@ -1,0 +1,13 @@
+C:\Users\jnolan\source\repos\ChessEngineTest\bin\Debug\netcoreapp3.1\ChessEngineTest.exe
+C:\Users\jnolan\source\repos\ChessEngineTest\bin\Debug\netcoreapp3.1\ChessEngineTest.deps.json
+C:\Users\jnolan\source\repos\ChessEngineTest\bin\Debug\netcoreapp3.1\ChessEngineTest.runtimeconfig.json
+C:\Users\jnolan\source\repos\ChessEngineTest\bin\Debug\netcoreapp3.1\ChessEngineTest.runtimeconfig.dev.json
+C:\Users\jnolan\source\repos\ChessEngineTest\bin\Debug\netcoreapp3.1\ChessEngineTest.dll
+C:\Users\jnolan\source\repos\ChessEngineTest\bin\Debug\netcoreapp3.1\ChessEngineTest.pdb
+C:\Users\jnolan\source\repos\ChessEngineTest\obj\Debug\netcoreapp3.1\ChessEngineTest.csprojAssemblyReference.cache
+C:\Users\jnolan\source\repos\ChessEngineTest\obj\Debug\netcoreapp3.1\ChessEngineTest.AssemblyInfoInputs.cache
+C:\Users\jnolan\source\repos\ChessEngineTest\obj\Debug\netcoreapp3.1\ChessEngineTest.AssemblyInfo.cs
+C:\Users\jnolan\source\repos\ChessEngineTest\obj\Debug\netcoreapp3.1\ChessEngineTest.csproj.CoreCompileInputs.cache
+C:\Users\jnolan\source\repos\ChessEngineTest\obj\Debug\netcoreapp3.1\ChessEngineTest.dll
+C:\Users\jnolan\source\repos\ChessEngineTest\obj\Debug\netcoreapp3.1\ChessEngineTest.pdb
+C:\Users\jnolan\source\repos\ChessEngineTest\obj\Debug\netcoreapp3.1\ChessEngineTest.genruntimeconfig.cache
