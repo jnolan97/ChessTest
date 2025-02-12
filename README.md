@@ -1,1 +1,1 @@
-In Progress Chess Engine Written in C#
+Beginning Outlines of a Chess Engine, created in C#/.Net
